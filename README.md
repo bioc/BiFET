@@ -14,9 +14,10 @@ __Installation:__
 
 To install this package, start R and enter:
 
-`source("https://bioconductor.org/biocLite.R")`
+`if (!requireNamespace("BiocManager", quietly=TRUE))`
+    `install.packages("BiocManager")`
 
-`biocLite("BiFET")`
+`BiocManager::install("BiFET")`
 
 Alternatively, this package may be installed via the commands in R:
 
