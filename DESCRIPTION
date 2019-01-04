@@ -1,7 +1,7 @@
 Package: BiFET
 Type: Package
 Title: Bias-free Footprint Enrichment Test
-Version: 1.2.0
+Version: 1.2.1
 Date: 2018-07-10
 Authors@R: c(person("Ahrim", "Youn", email = "Ahrim.Youn@jax.org",
     role = c("aut", "cre")), person("Eladio", "Marquez",
@@ -22,7 +22,7 @@ Description: BiFET identifies TFs whose footprints are over-represented in
     the p-value as the probability of observing t_k or more target regions
     with footprints under the null hypothesis.
 License: GPL-3
-biocViews: Genetics, Epigenetics, Transcription, GeneRegulation,
+biocViews: ImmunoOncology, Genetics, Epigenetics, Transcription, GeneRegulation,
     ATACSeq, DNaseSeq, RIPSeq, Software
 Encoding: UTF-8
 LazyData: true
