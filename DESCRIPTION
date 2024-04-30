@@ -1,7 +1,7 @@
 Package: BiFET
 Type: Package
 Title: Bias-free Footprint Enrichment Test
-Version: 1.23.0
+Version: 1.24.0
 Date: 2021-11-20
 Authors@R: c(person("Ahrim", "Youn", email = "Ahrim.Youn@jax.org",
     role = c("aut", "cre")), person("Eladio", "Marquez",
